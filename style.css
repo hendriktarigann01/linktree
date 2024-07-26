@@ -12,7 +12,7 @@ html {
   margin: 0 auto;
   background: red;
   height: 100vh;
-  background-image: url("download.jpg");
+  background-image: url("download.jpeg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -71,7 +71,7 @@ html {
   text-align: center;
 }
 
-.footer>i {
+.footer>p {
   color: white;
   font-size: 20px;
 }
